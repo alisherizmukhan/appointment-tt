@@ -35,7 +35,7 @@ class _AppointmentFormatScreenState extends State<AppointmentFormatScreen> {
         automaticallyImplyLeading: false,
         backgroundColor: Colors.transparent,
         elevation: 0,
-        toolbarHeight: 30,
+        toolbarHeight: 40,
         flexibleSpace: Stack(
           children: [
             Center(

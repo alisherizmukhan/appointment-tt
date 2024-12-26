@@ -80,7 +80,7 @@ class _DateTimeScreenState extends State<DateTimeScreen> {
         automaticallyImplyLeading: false,
         backgroundColor: Colors.transparent,
         elevation: 0,
-        toolbarHeight: 30,
+        toolbarHeight: 40,
         flexibleSpace: Stack(
           children: [
             Center(
