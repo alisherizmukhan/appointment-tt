@@ -1,3 +1,1 @@
-# appointment
-
-A new Flutter project.
+# The application for making an appointment with a doctor
